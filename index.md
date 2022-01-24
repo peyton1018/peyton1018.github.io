@@ -24,9 +24,10 @@
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1># INTERVIEWS</h1>
-								<p>杜鹏程的新媒体艺术作品展示 <a href="https://www.behance.net/dupengchen1018">BEHANCE</a> and released<br />
-								pengcheng du's media works “線” “橋” “卍” “ზ” “⊙”“अर्हत्” “#” “塵”“泡”="https://html5up.net/license">Creative Commons</a> license.</p>
+								<h1>PENGCHENG DU'S MEDIA WORKS</h1>
+								<p>杜鹏程的新媒体艺术作品展示 <a href="https://www.behance.net/dupengchen1018">BEHANCE</a> # INTERVIEWS<br />
+								pengcheng du's media works 
+								“線” “橋” “卍” “ზ” “⊙”“अर्हत्” “#” “塵”“泡”</p>
 							</div>
 						</div>
 						<nav>
@@ -47,8 +48,15 @@
 							<article id="intro">
 								<h2 class="major">Intro</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
+								<p>杜鵬程(トホウテイ)は中国湖北省武漢市の出身で、東京工芸大学大学院でデジタルメディアを学び、修士号を取得して卒業した。彼はメディアアートを勉強するために 日本に行くことに決めた。祖父と祖母は仏教を信じていたので、幼年期から仏教に関心を持っていて、今まで作った多くの作品は仏教に関連している。By the way, check out my <a href="#work">awesome work</a>.</p>
+								<p>东京工艺大学同窗会艺术学研究科奖学金（2021）
+								东京工艺大学同窗会艺术学研究科奖学金（2021）
+								《数字媒体艺术的创作与教育》MANA全球高校交流系列活动 主策划兼主持人 策划
+								日语能力测验一级（JLPT N1）
+								中国高校数字艺术大赛-彩焕南云探索计划（Chinese Universities Digital Interactive ART Awards）铜奖，创意奖、佳作奖
+								2021第六届“汇创青春”上海大学生文化创意作品展示活动 国际赛新媒体艺术分赛 最佳创意奖 Best Creative Gold Award
+								2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖, 2021 I CUBE IMMERSIVE EXPERIENCE COMPETITION Wow Award
+								</p>
 							</article>
 
 						<!-- Work -->
