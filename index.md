@@ -49,13 +49,13 @@
 								<h2 class="major">Intro</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
 								<p>杜鵬程(トホウテイ)は中国湖北省武漢市の出身で、東京工芸大学大学院でデジタルメディアを学び、修士号を取得して卒業した。彼はメディアアートを勉強するために 日本に行くことに決めた。祖父と祖母は仏教を信じていたので、幼年期から仏教に関心を持っていて、今まで作った多くの作品は仏教に関連している。By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>东京工艺大学同窗会艺术学研究科奖学金（2021）
-								东京工艺大学同窗会艺术学研究科奖学金（2021）
-								《数字媒体艺术的创作与教育》MANA全球高校交流系列活动 主策划兼主持人 策划
-								日语能力测验一级（JLPT N1）
-								中国高校数字艺术大赛-彩焕南云探索计划（Chinese Universities Digital Interactive ART Awards）铜奖，创意奖、佳作奖
-								2021第六届“汇创青春”上海大学生文化创意作品展示活动 国际赛新媒体艺术分赛 最佳创意奖 Best Creative Gold Award
-								2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖, 2021 I CUBE IMMERSIVE EXPERIENCE COMPETITION Wow Award
+								<p>东京工艺大学同窗会艺术学研究科奖学金（2021） <br />
+								东京工艺大学同窗会艺术学研究科奖学金（2021） <br />
+								《数字媒体艺术的创作与教育》MANA全球高校交流系列活动 主策划兼主持人 策划 <br />
+								日语能力测验一级（JLPT N1） <br />
+								中国高校数字艺术大赛-彩焕南云探索计划（Chinese Universities Digital Interactive ART Awards）铜奖，创意奖、佳作奖 <br />
+								2021第六届“汇创青春”上海大学生文化创意作品展示活动 国际赛新媒体艺术分赛 最佳创意奖 Best Creative Gold Award <br />
+								2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖, 2021 I CUBE IMMERSIVE EXPERIENCE COMPETITION Wow Award <br />
 								</p>
 							</article>
 
@@ -351,7 +351,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+						<p class="copyright">&copy; the dharma body is full of things by dupengcheng 2021.</p>
 					</footer>
 
 			</div>
