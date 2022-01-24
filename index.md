@@ -24,9 +24,9 @@
 						</div>
 						<div class="content">
 							<div class="inner">
-								<h1>Dimension</h1>
-								<p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-								for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
+								<h1># INTERVIEWS</h1>
+								<p>杜鹏程的新媒体艺术作品展示 <a href="https://www.behance.net/dupengchen1018">BEHANCE</a> and released<br />
+								pengcheng du's media works “線” “橋” “卍” “ზ” “⊙”“अर्हत्” “#” “塵”“泡”="https://html5up.net/license">Creative Commons</a> license.</p>
 							</div>
 						</div>
 						<nav>
