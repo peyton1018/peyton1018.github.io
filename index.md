@@ -25,8 +25,8 @@
 						<div class="content">
 							<div class="inner">
 								<h1>PENGCHENG DU'S MEDIA WORKS</h1>
-								<p>杜鹏程的新媒体艺术作品展示 <a href="https://www.behance.net/dupengchen1018">BEHANCE</a> # INTERVIEWS<br />
-								pengcheng du's media works 
+								<p>杜鹏程的新媒体艺术作品展示 <a href="https://www.behance.net/dupengchen1018">BEHANCE</a> # INTERVIEWS <br />
+								pengcheng du's media works <br />
 								“線” “橋” “卍” “ზ” “⊙”“अर्हत्” “#” “塵”“泡”</p>
 							</div>
 						</div>
@@ -49,16 +49,23 @@
 								<h2 class="major">Intro</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
 								<p>Du Pengcheng is from Wuhan, Hubei Province, China. He studied digital media at the Tokyo Polytechnic University graduate school and graduated with a master's degree. He decided to go to Japan to study new media art. My grandfather and grandmother were both Buddhists, so they were interested in Buddhism from an early age, and a lot of their work so far has been about Buddhism <br />
-								杜鵬程(トホウテイ)は中国湖北省武漢市の出身で、東京工芸大学大学院でデジタルメディアを学び、修士号を取得して卒業した。彼はメディアアートを勉強するために 日本に行くことに決めた。祖父と祖母は仏教を信じていたので、幼年期から仏教に関心を持っていて、今まで作った多くの作品は仏教に関連している。By the way, check out my <a href="#work">awesome work</a>.</p>
-								<p>Tokyo Polytechnic University Scholarship (2021)
-								东京工艺大学同窗会艺术学研究科奖学金（2021） <br />
+								Experiences <br />
+								Tokyo Polytechnic University Scholarship (2021) <br />
 								Ministry of Education, Culture, Sports, Science and Technology fees for foreign students (2022) <br />
+								"Digital media art creation and education" Mana Global University Exchange series, master planner and moderator, planning <br />
+								Chinese Universities Digital Interactive ART Awards Bronze Award. Creative Award. Best Work Award <br />
+								2021 the 6th "Huichuang Youth" Shanghai University students cultural and creative works exhibition, international competition new media art sub-competition Best Creative Gold Award <br />
+								2021 I CUBE IMMERSIVE EXPERIENCE COMPETITION Wow Award <br />
+								By the way, check out my <a href="#work">awesome work</a>.</p>
+								<p>杜鹏程来自中国湖北省武汉市，在东京工艺大学研究生院学习数字媒体，并以硕士学位毕业. <br />
+								他决定去日本学习新媒体艺术.他的祖父和祖母都信奉佛教，所以他从小就对佛教很感兴趣，到目前为止他创作的很多作品都与佛教有关。 <br />
+								经历和荣誉 <br />
+								东京工艺大学同窗会艺术学研究科奖学金（2021） <br />
 								文部科学省外国人留学生学習奨励費（2022） <br />
 								《数字媒体艺术的创作与教育》MANA全球高校交流系列活动 主策划兼主持人 策划 <br />
-								日语能力测验一级（JLPT N1） <br />
-								中国高校数字艺术大赛-彩焕南云探索计划（Chinese Universities Digital Interactive ART Awards）铜奖，创意奖、佳作奖 <br />
-								2021第六届“汇创青春”上海大学生文化创意作品展示活动 国际赛新媒体艺术分赛 最佳创意奖 Best Creative Gold Award <br />
-								2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖, 2021 I CUBE IMMERSIVE EXPERIENCE COMPETITION Wow Award <br />
+								中国高校数字艺术大赛-彩焕南云探索计划 铜奖，创意奖、佳作奖 <br />
+								2021第六届“汇创青春”上海大学生文化创意作品展示活动 国际赛新媒体艺术分赛 最佳创意金奖 <br />
+								2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖 <br />
 								</p>
 							</article>
 
@@ -66,8 +73,34 @@
 							<article id="work">
 								<h2 class="major">Work</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<p>Live Performance <br />
+								VVVV W960.0 x H1920.0 x D∅ pix (each) <br />
+								Dupengcheng <br />
+								 <br />
+								  <a href="https://www.behance.net/dupengchen1018">Click here to see more in Mana.</a> 
+								Who knows what will be in the 1183 tank. <br />
+								In order to store Fukushima nuclear waste water, Tokyo Electric Power has prepared a total of about 1,182 water storage tanks. In the past ten years, nearly 90% of water storage tanks have been filled. <br />
+								After a long discussion, we decided to try to make such a work in collaboration with the sea. <br />
+								We went to the Miura Peninsula, which is the most open sea in Tokyo, and walked through the castle island that has been corroded by sea water for a hundred years. <br />
+								We stored the information we collected and stored it in the 1183th piggy bank made by ourselves. <br />
+								Through the production of this work, we want to bring ocean issues back to the table again. <br />
+								Use real-time data mapping and hand it to the sea to complete this work, and the sea will decide what should be in the 1183th piggy bank. <br />
+								We want to show the power of the sea naked before the eyes of the world. <br />
+								We also hope that people will put aside their arguments and make common changes to the marine environment. <br />
+								 <br />
+								The TDS water quality detector measures the seawater data and transmits it to ARDUINO. Uses the acquired seawater data to visualize the data using the new media art software touchdesigner on the computer. The data fluctuations of the seawater will echo the visually beating line, which also represents The waves hit the gully left on the rocky beach. <br />
+								 <br />
+								From this we first arrived at the labeled Fukushima. We visualized the data through the measurement of seawater (the linearity of the data fluctuations echoes the ripples of the ocean) <br />
+								To express our doubts about nuclear waste water <br />
+								Concerns about the human living environment and the integration and resistance of humans to the natural environment <br /></p>
+								<p>为了储存福岛核废水，东京电力一共准备了约1182个储水罐。而这十年来，将近九成的储水罐已经被装满。 <br />
+								经过长久的讨论，我们决定尝试着与大海联手制作一份这样的作品。 <br />
+								我们去到东京最靠外海的三浦半岛，走过被海水腐蚀过百年的城之岛。 <br />
+								我们将我们收集到的信息储存起来，存在了这第1183个 我们自己制作的储蓄罐里。 <br />
+								通过这次作品制作，我们想重新让海洋问题回归台面。 <br />
+								利用实时数据mapping，交给大海来完成这个作品，由大海来决定第1183个储蓄罐里应该是什么。 <br />
+								我们想把大海的力量，赤裸裸的展现在世人的眼前。 <br />
+								我们也希望人们放下争论，为海洋环境做出共同的改变。</p>
 								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
 								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
 								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
