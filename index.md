@@ -48,8 +48,8 @@
 							<article id="intro">
 								<h2 class="major">Intro</h2>
 								<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
-								<p>Du Pengcheng is from Wuhan, Hubei Province, China. He studied digital media at the Tokyo Polytechnic University graduate school and graduated with a master's degree. He decided to go to Japan to study new media art. My grandfather and grandmother were both Buddhists, so they were interested in Buddhism from an early age, and a lot of their work so far has been about Buddhism <br />
-								Experiences <br />
+								<p>Du Pengcheng is from Wuhan, Hubei Province, China. He studied digital media at the Tokyo Polytechnic University graduate school and graduated with a master's degree. He decided to go to Japan to study new media art. My grandfather and grandmother were both Buddhists, so they were interested in Buddhism from an early age, and a lot of their work so far has been about Buddhism. <br /></p>
+								<p>Experiences <br />
 								Tokyo Polytechnic University Scholarship (2021) <br />
 								Ministry of Education, Culture, Sports, Science and Technology fees for foreign students (2022) <br />
 								"Digital media art creation and education" Mana Global University Exchange series, master planner and moderator, planning <br />
