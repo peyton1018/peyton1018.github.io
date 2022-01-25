@@ -34,7 +34,6 @@
 							<ul>
 								<li><a href="#intro">Intro</a></li>
 								<li><a href="#work">Work</a></li>
-								<li><a href="#work2">Work</a></li>
 								<li><a href="#about">About</a></li>
 								<li><a href="#contact">Contact</a></li>
 								<!--<li><a href="#elements">Elements</a></li>-->
@@ -100,9 +99,15 @@
 								我们想把大海的力量,赤裸裸的展现在世人的眼前. <br />
 								我们也希望人们放下争论,为海洋环境做出共同的改变. <br />
 								 <a href="https://www.manamana.net/video/detail?id=1612089#!zh">作品视频-Mana.</a>  <br /></p>
-								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
+								<p> <a href="https://www.manamana.net/video/detail?id=1783370#!zh">家に帰りみち·The way home</a> </p>
+								<p>Live  Perfomance，Lidar， <br />
+								Unity W1920x H10800.0 x D∅ pix (each) BibcamVfx <br />
+								dupengcheng</p>
+								<p>Tokyo, Sugimoto-san, Nishiogi-kita/nDocumenting my last year of study in Japan, spending my graduate years in the midst of the epidemic.
+								 <a href="https://vimeo.com/manage/videos/666378743">Click here to see more in VIMEO.</a> </p>
+								 <p>东京都杉并区西荻北，
+								记录我在日本的留学生活的最后一年，在疫情中度过我的研究生时光.<a href="https://vimeo.com/manage/videos/666378743">作品视频VIMEO.</a> </p>
 								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
 								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
 								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
