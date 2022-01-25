@@ -102,12 +102,14 @@
 								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
 								<p> <a href="https://www.manamana.net/video/detail?id=1783370#!zh">家に帰りみち·The way home</a> </p>
 								<p>Live  Perfomance，Lidar， <br />
-								Unity W1920x H10800.0 x D∅ pix (each) BibcamVfx <br />
+								Unity W1920x H10800.0 x D∅ pix (each) BibcamVfx
 								dupengcheng</p>
-								<p>Tokyo, Sugimoto-san, Nishiogi-kita/nDocumenting my last year of study in Japan, spending my graduate years in the midst of the epidemic.
-								 <a href="https://vimeo.com/manage/videos/666378743">Click here to see more in VIMEO.</a> </p>
+								<p> <a href="https://vimeo.com/manage/videos/666378743">Click here to see more in VIMEO.</a>  <br />
+								Tokyo, Sugimoto-san, Nishiogi-kita/nDocumenting my last year of study in Japan, spending my graduate years in the midst of the epidemic.</p>
 								 <p>东京都杉并区西荻北，
-								记录我在日本的留学生活的最后一年，在疫情中度过我的研究生时光.<a href="https://vimeo.com/manage/videos/666378743">作品视频VIMEO.</a> </p>
+								记录我在日本的留学生活的最后一年，在疫情中度过我的研究生时光. <br />
+								<a href="https://www.manamana.net/video/detail?id=1783370#!zh">作品视频MANA.</a>  <br />
+								<a href="https://vimeo.com/manage/videos/666378743">作品视频VIMEO.</a> </p>
 								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
 								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
 								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
