@@ -110,12 +110,38 @@
 								记录我在日本的留学生活的最后一年，在疫情中度过我的研究生时光. <br />
 								<a href="https://www.manamana.net/video/detail?id=1783370#!zh">作品视频MANA.</a>  <br />
 								<a href="https://vimeo.com/manage/videos/666378743">作品视频VIMEO.</a> </p>
-								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
-								<span class="image main"><img src="images/pic06.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
+								<p>The ARHAT in AI`s eyes <br /></p>
+								<p>Live  Perfomance,Web Camera,picture <br />
+								Processing W960.0 x H1920.0 x D∅ pix (each) <br />
+								Dupengcheng 2020 <br />
+								 <br />
+								  <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">Click here to see more in Behance.</a>  <br />
+								 <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">作品视频-BEHANCE.</a>  <br /></p>
+								<span class="image main"><img src="images/pic08.jpg" alt="" /></span>
+								<p>俯象鼓声/The Elephant Drums <br /></p>
+								<p>Live Performance,VVVV,Arduino <br />
+								VVVV W1920.0*3 x H1080.0*3 pix (each) <br />
+								Dupengcheng <br />
+								 <br />
+								  <a href="https://www.behance.net/gallery/128639111/The-Elephant-Drums">Click here to see more in Bhance.</a>  <br />
+								As young people head for the big cities, fewer dai festivals have been held in recent years, and there are few more foot-drumming performances than before. The work uses the sound data of elephant-foot drums to create the Dai’s signature patterns, abstracting the fabled scene where birds dance to the sound of elephant-foot drums and peacocks dance up and down. <br />
+								With an Arduino
+								The Arduino picks up data from four acceleration electronics that sense the hand’s motion as the performer taps on the drum. The faster the beat, the more feedback Arduino gets.
+								In addition, a sound-sensing device is set on the side or bottom of the drum to recognize the sound of a foot-like drum. When the drum is struck, the sound sensor reads the value of the sound and transmits it to the Arduino. <br />
+								Data transmission
+								VVVVV is a hybrid visual/text real-time programming tool suite designed to handle large media environments through physical interfaces, real-time motion graphics, audio and video (which can interact with many users simultaneously) . The value of the Arduino can be read by uploading the Arduino’s sketch of Firmata and then using the VVVVV’s digital read (Firmata) and alo read (Firmata) . Digital write (Firmata) , AnalogWrite (Firmata) or ServoWrite (Firmata) a node connected to an Arduino pin sets the board’s data to control the Arduino board. <br />
+								Visual effects
+								The model of birds and peacocks is made by 3D software blender, and the model is imported into VVVV. According to the two different data obtained from the sound sensor and the acceleration electronic component, the visual effect of the percussion elephant-foot drum is realized to realize the sound visualization. In VVV, the control model can be achieved by processing the data of the voice.</p>
+								<p>隨著年輕人都去了大都市，近年來雲南少數民族的傣族的民族節日舉辦的越來越少，已經很少能夠看到和以前一樣的有象腳鼓伴奏的歌舞表演。這個作品使用象腳鼓的聲音數據來生成具有傣族標誌性的圖案，將傳說中【敲響象腳鼓時，百鳥聞聲起舞，孔雀也會隨著上下起舞】的場景抽象的表現出來。 <br />
+								用Arduino來完成
+								由4個加速度電子元件來感應手的動作，當表演者用手敲擊鼓的時候，Arduino會從加速度電子元件讀取數據。當敲擊的節奏越快時，Arduino得到的反饋就會越多。
+								除此之外，在鼓的側面或者底部會設置一個聲音感應裝置，用來識別象腳鼓的聲音。當鼓被敲響時，聲音感應裝置會讀取出聲音的數值，傳輸給Arduino數據。 <br />
+								數據的傳輸
+								VVVV是一種混合的視覺/文本實時編程工具套件，旨在通過物理界面，實時運動圖形，音頻和視頻（可同時與許多用戶進行交互）來處理大型媒體環境。通過上傳Arduino的Firmata草圖，然後使用VVVV的DigitalRead（Firmata）和AnalogRead（Firmata）即可讀取Arduino的數值。DigitalWrite（Firmata），AnalogWrite（Firmata）或ServoWrite（Firmata）節點連接Arduino的引腳就可以設置開發板的數據來控製Arduino開發板。 <br />
+								視覺效果的製作
+								利用3d軟件blender製作鳥類和孔雀的模型，將模型導入VVVV，根據聲音傳感器和加速度電子元件獲得的兩種不同的數據來實現敲擊象腳鼓來實現聲音可視化的視覺效果。在VVVV中可以處理聲音的數據達到控製模型的作用。 <br />
+								 <a href="https://www.manamana.net/video/detail?id=1494945#!zh">作品视频-Mana.</a>  <br /></p>
 								<span class="image main"><img src="images/pic07.jpg" alt="" /></span>
 								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
 								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
