@@ -83,9 +83,9 @@
 								In order to store Fukushima nuclear waste water, Tokyo Electric Power has prepared a total of about 1,182 water storage tanks. In the past ten years, nearly 90% of water storage tanks have been filled.
 								After a long discussion, we decided to try to make such a work in collaboration with the sea.
 								We went to the Miura Peninsula, which is the most open sea in Tokyo, and walked through the castle island that has been corroded by sea water for a hundred years.
-								We stored the information we collected and stored it in the 1183th piggy bank made by ourselves.
+								We stored the information we collected and stored it in the 1183 tank made by ourselves.
 								Through the production of this work, we want to bring ocean issues back to the table again.
-								Use real-time data mapping and hand it to the sea to complete this work, and the sea will decide what should be in the 1183th piggy bank. <br />
+								Use real-time data mapping and hand it to the sea to complete this work, and the sea will decide what should be in the 1183th tank. <br />
 								We want to show the power of the sea naked before the eyes of the world.
 								We also hope that people will put aside their arguments and make common changes to the marine environment. <br />
 								To express our doubts about nuclear waste water <br />
@@ -143,8 +143,45 @@
 								利用3d軟件blender製作鳥類和孔雀的模型，將模型導入VVVV，根據聲音傳感器和加速度電子元件獲得的兩種不同的數據來實現敲擊象腳鼓來實現聲音可視化的視覺效果。在VVVV中可以處理聲音的數據達到控製模型的作用。 <br />
 								 <a href="https://www.manamana.net/video/detail?id=1494945#!zh">作品视频-Mana.</a>  <br /></p>
 								<span class="image main"><img src="images/pic07.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
+								<p>The ARHAT in AI`s eyes <br /></p>
+								<p>Live  Perfomance,Web Camera,picture <br />
+								Processing W1280 x H960.0pix <br />
+								Dupengcheng <br />
+								 <br />
+								  <a href="https://www.manamana.net/video/detail?id=1612089#!zh">Click here to see more in Mana.</a>  <br />
+								import processing.video.*;
+								Movie movie;
+								boolean playing;
+								float scale=2.0;
+
+								void setup() { <br />
+								size(1680,1050,P3D); <br />
+								frameRate(60); <br />
+								noStroke(); <br />
+								movie = new Movie(this,”test.MOV”); <br />
+								movie.loop(); <br />
+								playing=true; <br />
+								} <br />
+
+								void draw(){ <br />
+								background(0); <br />
+								strokeWeight(5.0); <br />
+								float hStep=6.0; <br />
+								float wStep=6.0; <br />
+								for(float j=0; j<height;j+=hStep) { <br />
+								beginShape(); <br />
+								for(float i=0;i<width;i+=wStep){ <br />
+								color col=movie.get(int(i),int(j)); <br />
+								float br=brightness(col); <br />
+								stroke(col); <br />
+								vertex(i,j,br*scale); <br />
+								} <br />
+								endShape(); <br />
+								} <br />
+								} <br />
+								void movieEvent(Movie m) { <br />
+								m.read(); <br />
+								} <br /></p>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
 								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
