@@ -184,6 +184,7 @@
 								} <br />
 								  <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">Click here to see more in Bhance.</a>  <br /></p>
 								<span class="image main"><img src="images/pic09.jpg" alt="" /></span>
+								<p>法身萬象SDF/The dharma body is full of things SDF <br /></p>
 								<p>Yunnan has always been a region where many ethnic minorities live in compact communities.
 								Since Dali, Yunnan has been surrounded by Buddhist countries. Inland Buddhism can enter Yunnan from Chengdu or Jiaozhi,
 								then through Indochina and South Asian countries to link up with Buddhism: Tibet Buddhism is directly into the western Yunnan, but also to communicate with Nepal, India, Buddhism links.
@@ -207,7 +208,6 @@
 								《金刚经》-第十四品 离相寂灭分 <br />
 								<a href="https://www.manamana.net/video/detail?id=1496360#!zh">作品视频-Mana.</a>  <br />
 								<a href="https://www.behance.net/gallery/128636207/SDF-buddaha">Click here to see more in Bhance.</a> </p>
-								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
 							</article>
 
 						<!-- About -->
