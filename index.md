@@ -184,7 +184,29 @@
 								} <br />
 								  <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">Click here to see more in Bhance.</a>  <br /></p>
 								<span class="image main"><img src="images/pic09.jpg" alt="" /></span>
-								<p>Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.</p>
+								<p>Yunnan has always been a region where many ethnic minorities live in compact communities.
+								Since Dali, Yunnan has been surrounded by Buddhist countries. Inland Buddhism can enter Yunnan from Chengdu or Jiaozhi,
+								then through Indochina and South Asian countries to link up with Buddhism: Tibet Buddhism is directly into the western Yunnan, but also to communicate with Nepal, India, Buddhism links.
+								I have been to Xishuangbanna General Buddhist temple site to experience the ruins of the Buddhist temple. When you see the magnificent buildings and statues of Buddha, your heart is filled with emotion
+								The main purpose of this work is to use new media,/nthe Buddhist culture of Jinghong in a way that has never been seen before.
+								I explored what this form of art would look like when it merged with ancient Buddhism.
+								In this work, the elusive Buddha is at the center of the viewer’s vision. And it has no fixed shape.
+								Using projection and screen as media, this work expresses the concepts of illusion and reality in Buddhism in the form of new media art. <br />
+								云南历来是我国多种少数民族聚居的地区，原始宗教普遍流行，又各呈异态。
+								从大理开始，云南就处在佛教国家的包围中。内地佛教可以从成都或交趾进入云南，
+								然后经中南半岛同南亚诸国的佛教衔接起来：吐蕃佛教则直接进入云南西陲，又能沟通与尼泊尔、印度佛教的联系。　
+								我曾到西双版纳总佛寺实地感受佛寺圣地遗迹。当看到宏伟壮观的建筑和佛像时，心中充满感动。
+								这个作品的主要目的是运用新的媒体手段，将位于景洪地区的佛教文化以前所未有的形式表现出来。 <br />
+								在现代社会，新媒体艺术作为现代艺术和现代艺术的最前沿艺术形式，
+								通过音响、光学、电子技术、数字技术和互联网技术等方式进行创造活动。
+								我们探讨了这种艺术形式与古老的佛教相融合时会有什么样的表现形式。
+								在此作品中，变幻莫测的佛像处于观看者视线的中心。并且没有固定的形状。
+								当今科技飞速发展，各种各样的信息充斥在周围，人们很难知道该选择哪些信息。
+								此作品以投影映射和屏幕作为媒介，以新媒体艺术的形式表达了佛教中虚妄与实相的概念。 <br />
+								凡所有相，皆是虚妄。若见诸相非相，即见如来。” <br />
+								《金刚经》-第十四品 离相寂灭分 <br />
+								<a href="https://www.manamana.net/video/detail?id=1496360#!zh">作品视频-Mana.</a>  <br />
+								<a href="https://www.behance.net/gallery/128636207/SDF-buddaha">Click here to see more in Bhance.</a> </p>
 								<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat tempus.</p>
 							</article>
 
