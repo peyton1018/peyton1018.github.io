@@ -57,6 +57,7 @@
 								中国高校数字艺术大赛-彩焕南云探索计划 铜奖、创意奖、佳作奖 <br />
 								2021第六届“汇创青春”上海大学生国际赛新媒体艺术分赛 最佳创意金奖 <br />
 								2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖 <br />
+								2022 第二届中国高校数字艺术大赛 佳作奖 <br />
 								</p>
 								<p>Du Pengcheng is from Wuhan, Hubei Province, China. He studied digital media at the Tokyo Polytechnic University graduate school and graduated with a master's degree. He decided to go to Japan to study new media art. My grandfather and grandmother were both Buddhists, so they were interested in Buddhism from an early age, and a lot of their work so far has been about Buddhism. <br /></p>
 								<p>Experiences <br />
@@ -66,6 +67,7 @@
 								Chinese Universities Digital Interactive ART Awards Bronze Award. Creative Award. Best Work Award <br />
 								2021 the 6th "Huichuang Youth" Shanghai University students cultural and creative works exhibition, international competition new media art sub-competition Best Creative Gold Award <br />
 								2021 I CUBE IMMERSIVE EXPERIENCE COMPETITION Wow Award <br />
+								2022 Chinese Universities Digital Interactive ART Awards Excellent work Award 
 								By the way, check out my <a href="#work">awesome work</a>.</p>
 							</article>
 
@@ -213,7 +215,7 @@
 								<p>In Sanskrit, mandala means circle or center. For a long time, in many cultures, the circle symbolized the whole universe, and a point meant "the essence of all things" and the source. So the mandala has always been thought of as a tool that allows one to concentrate, to look back on oneself, to establish internal order and harmony./n/nAccording to the concept of the combination of the shape of the mandala pattern and the generative art, order and disorder, natural law and human intervention. <br />
 								梵语中“曼陀罗”（Mandala)的意思是“圆”（circle)或“中心”（center)。在很长一段岁月中，在很多文化圈中，圆都象征着“整个宇宙”（entire cosmos),其中的一个点（dot)意味着“所有事物的精髓”（essence)和“源泉”(source)。所以曼陀罗一直被认为是能够使人精神集中、回顾自身、建立内部的秩序并使其和谐的工具。<br />
 								根据曼陀罗的图案形状和生成艺术Generative art的概念相结合，有序和无序，自然法则和人为干预。<br />
-								<a href="https://my.zcool.com.cn/preview/work/ZNTg2MjQ5NzI=.html">作品视频-站酷.</a>  <br />
+								<a href="https://my.zcool.com.cn/preview/work/ZNTg2MjQ5NzI=.html">作品介绍-站酷.</a>  <br />
 								<a href="https://www.behance.net/gallery/128636207/SDF-buddaha">Click here to see more in Bhance.</a> </p>
 							</article>
 
