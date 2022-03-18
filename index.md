@@ -208,6 +208,13 @@
 								《金刚经》-第十四品 离相寂灭分 <br />
 								<a href="https://www.manamana.net/video/detail?id=1496360#!zh">作品视频-Mana.</a>  <br />
 								<a href="https://www.behance.net/gallery/128636207/SDF-buddaha">Click here to see more in Bhance.</a> </p>
+								<span class="image main"><img src="images/pic10.jpg" alt="" /></span>
+								<p>生成曼陀罗/Generative Mandala <br /></p>
+								<p>In Sanskrit, mandala means circle or center. For a long time, in many cultures, the circle symbolized the whole universe, and a point meant "the essence of all things" and the source. So the mandala has always been thought of as a tool that allows one to concentrate, to look back on oneself, to establish internal order and harmony./n/nAccording to the concept of the combination of the shape of the mandala pattern and the generative art, order and disorder, natural law and human intervention. <br />
+								梵语中“曼陀罗”（Mandala)的意思是“圆”（circle)或“中心”（center)。在很长一段岁月中，在很多文化圈中，圆都象征着“整个宇宙”（entire cosmos),其中的一个点（dot)意味着“所有事物的精髓”（essence)和“源泉”(source)。所以曼陀罗一直被认为是能够使人精神集中、回顾自身、建立内部的秩序并使其和谐的工具。<br />
+								根据曼陀罗的图案形状和生成艺术Generative art的概念相结合，有序和无序，自然法则和人为干预。<br />
+								<a href="https://www.manamana.net/video/detail?id=1496360#!zh">作品视频-Mana.</a>  <br />
+								<a href="https://www.behance.net/gallery/128636207/SDF-buddaha">Click here to see more in Bhance.</a> </p>
 							</article>
 
 						<!-- About -->
