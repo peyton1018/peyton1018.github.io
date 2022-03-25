@@ -80,7 +80,7 @@
 								<p>Live Performance <br />
 								VVVV W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng <br />
-								 <iframe src="https://www.youtube.com/embed/sm6zBpzglrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+								 <iframe src="//player.bilibili.com/player.html?bvid=BV1gY411H7eo&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  <br />
 								  <a href="https://www.manamana.net/video/detail?id=1612089#!zh" target="_blank">Click here to see more in Mana.</a>  <br />
 								Who knows what will be in the 1183 tank.
 								In order to store Fukushima nuclear waste water, Tokyo Electric Power has prepared a total of about 1,182 water storage tanks. In the past ten years, nearly 90% of water storage tanks have been filled.
