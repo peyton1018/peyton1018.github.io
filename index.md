@@ -76,12 +76,12 @@
 								<h2 class="major">Work</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>TANK#1183 <br /></p>
-								<iframe width="320" height="240" src="https://www.youtube.com/embed/sm6zBpzglrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br />
+								  <br />
 								<p>Live Performance <br />
 								VVVV W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng <br />
-								 <br />
-								  <a href="https://www.manamana.net/video/detail?id=1612089#!zh">Click here to see more in Mana.</a>  <br />
+								 <iframe src="https://www.youtube.com/embed/sm6zBpzglrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+								  <a href="https://www.manamana.net/video/detail?id=1612089#!zh" target="_blank">Click here to see more in Mana.</a>  <br />
 								Who knows what will be in the 1183 tank.
 								In order to store Fukushima nuclear waste water, Tokyo Electric Power has prepared a total of about 1,182 water storage tanks. In the past ten years, nearly 90% of water storage tanks have been filled.
 								After a long discussion, we decided to try to make such a work in collaboration with the sea.
