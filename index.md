@@ -76,6 +76,7 @@
 								<h2 class="major">Work</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>TANK#1183 <br /></p>
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/sm6zBpzglrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br />
 								<p>Live Performance <br />
 								VVVV W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng <br />
@@ -110,7 +111,7 @@
 								Tokyo, Sugimoto-san, Nishiogi-kita/nDocumenting my last year of study in Japan, spending my graduate years in the midst of the epidemic.</p>
 								 <p>东京都杉并区西荻北，
 								记录我在日本的留学生活的最后一年，在疫情中度过我的研究生时光. <br />
-								<iframe src="//player.bilibili.com/player.html?bvid=BV1S3411a7mg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+								<iframe src="//player.bilibili.com/player.html?bvid=BV1S3411a7mg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> <br />
 								<a href="https://www.manamana.net/video/detail?id=1783370#!zh">作品视频MANA.</a>  <br />
 								<a href="https://vimeo.com/manage/videos/666378743">作品视频VIMEO.</a> </p>
 								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
