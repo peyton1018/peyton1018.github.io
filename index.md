@@ -76,7 +76,7 @@
 								<h2 class="major">Work</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>TANK#1183 <br /></p>
-								<iframe width="560" height="315" src="https://www.youtube.com/embed/sm6zBpzglrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br />
+								<iframe width="320" height="240" src="https://www.youtube.com/embed/sm6zBpzglrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br />
 								<p>Live Performance <br />
 								VVVV W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng <br />
