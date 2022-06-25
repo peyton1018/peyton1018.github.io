@@ -57,7 +57,6 @@
 								中国高校数字艺术大赛-彩焕南云探索计划 铜奖、创意奖、佳作奖 <br />
 								2021第六届“汇创青春”上海大学生国际赛新媒体艺术分赛 最佳创意金奖 <br />
 								2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖 <br />
-								2022 第二届中国高校数字艺术大赛 佳作奖 <br />
 								</p>
 								<p>Du Pengcheng is from Wuhan, Hubei Province, China. He studied digital media at the Tokyo Polytechnic University graduate school and graduated with a master's degree. He decided to go to Japan to study new media art. My grandfather and grandmother were both Buddhists, so they were interested in Buddhism from an early age, and a lot of their work so far has been about Buddhism. <br /></p>
 								<p>Experiences <br />
@@ -67,7 +66,6 @@
 								Chinese Universities Digital Interactive ART Awards Bronze Award. Creative Award. Best Work Award <br />
 								2021 the 6th "Huichuang Youth" Shanghai University students cultural and creative works exhibition, international competition new media art sub-competition Best Creative Gold Award <br />
 								2021 I CUBE IMMERSIVE EXPERIENCE COMPETITION Wow Award <br />
-								2022 Chinese Universities Digital Interactive ART Awards Excellent work Award 
 								By the way, check out my <a href="#work">awesome work</a>.</p>
 							</article>
 
@@ -76,11 +74,11 @@
 								<h2 class="major">Work</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>TANK#1183 <br /></p>
-								 <iframe src="//player.bilibili.com/player.html?bvid=BV1gY411H7eo&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  <br />
 								<p>Live Performance <br />
 								VVVV W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng <br />
-								  <a href="https://www.manamana.net/video/detail?id=1612089#!zh" target="_blank">Click here to see more in Mana.</a>  <br />
+								 <br />
+								  <a href="https://www.manamana.net/video/detail?id=1612089#!zh">Click here to see more in Mana.</a>  <br />
 								Who knows what will be in the 1183 tank.
 								In order to store Fukushima nuclear waste water, Tokyo Electric Power has prepared a total of about 1,182 water storage tanks. In the past ten years, nearly 90% of water storage tanks have been filled.
 								After a long discussion, we decided to try to make such a work in collaboration with the sea.
@@ -110,7 +108,6 @@
 								Tokyo, Sugimoto-san, Nishiogi-kita/nDocumenting my last year of study in Japan, spending my graduate years in the midst of the epidemic.</p>
 								 <p>东京都杉并区西荻北，
 								记录我在日本的留学生活的最后一年，在疫情中度过我的研究生时光. <br />
-								<iframe src="//player.bilibili.com/player.html?bvid=BV1S3411a7mg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> <br />
 								<a href="https://www.manamana.net/video/detail?id=1783370#!zh">作品视频MANA.</a>  <br />
 								<a href="https://vimeo.com/manage/videos/666378743">作品视频VIMEO.</a> </p>
 								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
@@ -119,7 +116,7 @@
 								Processing W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng 2020 <br />
 								 <br />
-								 <iframe src="//player.bilibili.com/player.html?bvid=BV1Lr4y1g728&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+								 src="//player.bilibili.com/player.html?bvid=BV1Lr4y1g728&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe> 
 								  <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">Click here to see more in Behance.</a>  <br />
 								 <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">作品视频-BEHANCE.</a>  <br /></p>
 								<span class="image main"><img src="images/pic08.jpg" alt="" /></span>
@@ -212,22 +209,13 @@
 								《金刚经》-第十四品 离相寂灭分 <br />
 								<a href="https://www.manamana.net/video/detail?id=1496360#!zh">作品视频-Mana.</a>  <br />
 								<a href="https://www.behance.net/gallery/128636207/SDF-buddaha">Click here to see more in Bhance.</a> </p>
-								<span class="image main"><img src="images/pic10.jpg" alt="" /></span>
-								<p>生成曼陀罗/Generative Mandala <br /></p>
-								<p>In Sanskrit, mandala means circle or center. For a long time, in many cultures, the circle symbolized the whole universe, and a point meant "the essence of all things" and the source. So the mandala has always been thought of as a tool that allows one to concentrate, to look back on oneself, to establish internal order and harmony./n/nAccording to the concept of the combination of the shape of the mandala pattern and the generative art, order and disorder, natural law and human intervention. <br />
-								梵语中“曼陀罗”（Mandala)的意思是“圆”（circle)或“中心”（center)。在很长一段岁月中，在很多文化圈中，圆都象征着“整个宇宙”（entire cosmos),其中的一个点（dot)意味着“所有事物的精髓”（essence)和“源泉”(source)。所以曼陀罗一直被认为是能够使人精神集中、回顾自身、建立内部的秩序并使其和谐的工具。<br />
-								根据曼陀罗的图案形状和生成艺术Generative art的概念相结合，有序和无序，自然法则和人为干预。<br />
-								<a href="https://my.zcool.com.cn/preview/work/ZNTg2MjQ5NzI=.html">作品介绍-站酷.</a>  <br />
-								<a href="https://www.behance.net/gallery/128636207/SDF-buddaha">Click here to see more in Bhance.</a> </p>
 							</article>
 
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<a href="https://www.manamana.net/peopleCenter/903638/home#!zh">Mana的主页/Personal homepage on the MANA</a>  <br />
-								<a href="https://www.behance.net/dupengchen1018">BEHANCE的主页/Personal homepage on the BEHANCE</a>  <br />
-								<a href="http://pengcheng.ml/">个人网站/Personal website</a>  <br />
-								<a href="https://github.com/peyton1018">Github的主页/Personal homepage on the Github</a> </p>
+								<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
 							</article>
 
 						<!-- Contact -->
