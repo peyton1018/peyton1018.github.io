@@ -116,6 +116,7 @@
 								Processing W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng 2020 <br />
 								 <br />
+								 <iframe src="//player.bilibili.com/player.html?bvid=BV1Lr4y1g728&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 								  <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">Click here to see more in Behance.</a>  <br />
 								 <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">作品视频-BEHANCE.</a>  <br /></p>
 								<span class="image main"><img src="images/pic08.jpg" alt="" /></span>
