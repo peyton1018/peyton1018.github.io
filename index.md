@@ -112,6 +112,26 @@
 								记录我在日本的留学生活的最后一年，在疫情中度过我的研究生时光. <br />
 								<a href="https://www.manamana.net/video/detail?id=1783370#!zh">作品视频MANA.</a>  <br />
 								<a href="https://vimeo.com/manage/videos/666378743">作品视频VIMEO.</a> </p>
+								<span class="image main"><img src="images/pic11.jpg" alt="" /></span>
+								<p> <a href="https://www.manamana.net/video/detail?id=1957080#!zh">夜露時苦YOROSHIKU</a> </p>
+								<p>Live  Perfomance，Lidar， <br />
+								Unity W1920x H10800.0 x D∅ pix (each) BibcamVfx
+								dupengcheng</p>
+								<p> <a href="https://vimeo.com/manage/videos/666378743">Click here to see more in VIMEO.</a>  <br />
+								Tokyo, Sugimoto-san, Nishiogi-kita/nDocumenting my last year of study in Japan, spending my graduate years in the midst of the epidemic.</p>
+								 <p>
+								本次作品的创作灵感来源于重庆的街道和魔幻山城的雨后美感。运用光的线条来勾勒出大楼的轮廓线，流光绘影的光斑和多彩斑斓的数字艺术视觉效果来表现魔幻山城淅淅沥沥的雨后美感。在视觉效果中融合了山城的烟雾飘渺的朦胧感，用粒子系统和物理算法烟雾的效果表达了流光幻彩的未来城市的视觉效果。<br />
+								 团队名称：夜露時苦YOROSHIKU <br />
+								 团队成员名单：（排名不分先后） <br />
+								 视觉：平野理子Hirano Riko、鲁亦然Yiran Lu ，姜齐Qi Jiang，杜鹏程Pengcheng Du <br />
+								 音乐：AndyBear，何治宇Zhiyu He <br />
+								 夜露時苦来自日本东京的创意团队，他们大部分都有日本的教育经历。 <br />
+								 杜鹏程：新媒体艺术家，视觉艺术家，创意编程教育者。东京工艺大学交互媒体硕士毕业。 获得过东京工艺大学同窗会艺术学研究科奖学金，日本文部科学省外国人留学生学習奨励費，中国高校数字艺术大赛-彩焕南云探索计划 铜奖、创意奖、佳作奖，2021第六届“汇创青春”上海大学生国际赛新媒体艺术分赛 最佳创意金奖，2021 I CUBE 影魔方网龙沉浸光影大赛 闪光奖。曾担任《数字媒体艺术的创作与教育》MANA全球高校交流系列活动主策划兼主持人。 <br />
+								 何治宇：独立音乐制作人/吉他手 <br />
+								 AndyBear：电音制作人，DJ，美国亚利桑那州立大学（ASU）流行音乐专业在读。美国AERO，FRQNCY等电音厂牌合作艺人。 <br />
+								 鲁亦然：新媒体艺术创作人，京都工艺纤维大学研修生，目前就读于澳门科技大学互动媒体艺术研究生（M1）。 曾获中国高校数字艺术大赛-彩焕南云探索计划 铜奖、佳作奖 <br />
+								 姜琦（JIANG QI），京都工艺纤维大学 设计学在读博士（D3），主要研究方向是新媒体艺术，观察数字艺术与社会的连接，探索艺术与人产生的更多的可能性。获得2020年艺术类人才培养特别项目；日本文部科学省外国人留学生学習奨励費。<br />
+								<a href="https://www.manamana.net/video/detail?id=1957080#!zh">作品视频MANA.</a>  <br />
 								<span class="image main"><img src="images/pic04.jpg" alt="" /></span>
 								<p>The ARHAT in AI`s eyes <br /></p>
 								<p>Live  Perfomance,Web Camera,picture <br />
