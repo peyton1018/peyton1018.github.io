@@ -74,7 +74,6 @@
 								<h2 class="major">Work</h2>
 								<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
 								<p>TANK#1183 <br /></p>
-								<iframe src="//player.bilibili.com/player.html?bvid=BV1gY411H7eo&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> <br />
 								<p>Live Performance <br />
 								VVVV W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng <br />
@@ -102,7 +101,6 @@
 								 <a href="https://www.manamana.net/video/detail?id=1612089#!zh">作品视频-Mana.</a>  <br /></p>
 								<span class="image main"><img src="images/pic05.jpg" alt="" /></span>
 								<p> <a href="https://www.manamana.net/video/detail?id=1783370#!zh">家に帰りみち·The way home</a> </p>
-								<iframe src="//player.bilibili.com/player.html?bvid=BV1S3411a7mg&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> <br />
 								<p>Live  Perfomance，Lidar， <br />
 								Unity W1920x H10800.0 x D∅ pix (each) BibcamVfx
 								dupengcheng</p>
@@ -138,7 +136,7 @@
 								Processing W960.0 x H1920.0 x D∅ pix (each) <br />
 								Dupengcheng 2020 <br />
 								 <br />
-								 <iframe src="//player.bilibili.com/player.html?bvid=BV1Lr4y1g728&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> <br />
+								 <iframe src="//player.bilibili.com/player.html?bvid=BV1Lr4y1g728&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 640px; height: 430px; max-width: 100%"> </iframe>
 								  <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">Click here to see more in Behance.</a>  <br />
 								 <a href="https://www.behance.net/gallery/128638147/the-ARHAT-in-AIs-eyes">作品视频-BEHANCE.</a>  <br /></p>
 								<span class="image main"><img src="images/pic08.jpg" alt="" /></span>
